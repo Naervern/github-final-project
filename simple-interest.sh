@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Antonio Maximiano (aka Naervern)
+   # Naervern (Antonio Maximiano)
 
    # Input:
    # p, principal amount
